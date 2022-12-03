@@ -1,0 +1,10 @@
+# common whitelist
+*
+!*/
+!.gitignore
+!README.md
+
+# web whitelist
+!*.html
+!*.css
+!*.js
