@@ -4,6 +4,10 @@ body {
 	margin: 0;
 }
 
+.hidden {
+	visibility: hidden;
+}
+
 #clock {
 	text-align: center;
 	font-size: 16vmin;
